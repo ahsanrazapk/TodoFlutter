@@ -1,8 +1,8 @@
 # Lista de Tarefas
 
-Projeto em Flutter para uma lista de tarefas
+Aplicativo de lista de tarefas
 
 ## Getting Started
 
-### Base
+### Serviços
 Inserir e remover itens da lista
